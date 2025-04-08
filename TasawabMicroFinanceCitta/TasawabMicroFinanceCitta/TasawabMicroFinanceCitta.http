@@ -1,0 +1,6 @@
+@TasawabMicroFinanceCitta_HostAddress = http://localhost:5296
+
+GET {{TasawabMicroFinanceCitta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
